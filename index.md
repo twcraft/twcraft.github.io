@@ -11,10 +11,11 @@ My goal is to eventually become a data scientist. Currently, the way I feel abou
   <img src="https://datasciencedojo.com/wp-content/uploads/16-995x1030.jpeg" width="300" /> 
 </p>
 
-But I hope I will soon feel more like this:
+But I hope I will soon feel like this:
 
 <p align="center">
   <img src="https://interviewquery-cms-images.s3-us-west-1.amazonaws.com/33ac6ac0-81dc-487a-a091-be38af09bce9.jpg" width="300" />
 </p>
+
 
 Thank you for visiting my blog. If you would like to reach me, my email is twcraft@ncsu.edu.
