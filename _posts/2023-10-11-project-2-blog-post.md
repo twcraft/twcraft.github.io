@@ -9,7 +9,7 @@ To begin the process of creating my vignette, I had to search through several AP
 After finally settling on an API, I then had to apply the skills I have been slowly developing over the past few months to parse data, create functions, find and install new packaages, and visually plot data in new and interesting ways. Programmingwise, I did learn a lot about how many approaches and packages there are available for programmers to choose from, and how that can allow one to shape their code and formatting to reflect personal preferences as well as user-friendliness. However, in approaching a similar project in the future I think I would try to find a source with a greater wealth of numeric data as this is easier to apply when it comes to doing numerical summaries and data plots.
 
 If you would like to see my finished vignette, you can find links to both the github page and regular repo at the following links!:
-• [Github page for vignette](https://twcraft.github.io/Project-2/)
-• [Regular repo for vignette](https://github.com/twcraft/Project-2)
+* [Github page for vignette](https://twcraft.github.io/Project-2/)
+* [Regular repo for vignette](https://github.com/twcraft/Project-2)
 
 I hope my reflections in this post as well as my vignette are helpful to readers as much as this has been a great learning experience for me.
