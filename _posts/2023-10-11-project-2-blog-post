@@ -1,3 +1,5 @@
+## Project 2 Blog Post
+
 As part of my ongoing journey to learn more about programming and becoming a data scientist, I recently completed a project to create a vignette demmonstrating how to read and summarize data from an API.
 
 In my vignette, I wrote functions to interact with the Nobel Prize API's endpoints, retrieved some data, and explored it using tables, numerical summaries, and data visualization through a variety of different plots. Some of my findings were not too surprising, such as there being a significantly greater number of male versus female laureates, and the United States having both the greatest total number of past Nobel Prize winners and greatest number of female laureates. I also discovered some interesting new information, such as how female Nobel Prize winners have generally won a lot more in certain categories but are still far behind in the scientific categories.
