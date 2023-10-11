@@ -1,4 +1,4 @@
-## Project 2 Blog Post
+## Project 2 blog post
 
 As part of my ongoing journey to learn more about programming and becoming a data scientist, I recently completed a project to create a vignette demmonstrating how to read and summarize data from an API.
 
